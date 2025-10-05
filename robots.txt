@@ -1,0 +1,6 @@
+# robots.txt untuk https://nomor-whatsapp-ajaib-alpha.pages.dev/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://nomor-whatsapp-ajaib-alpha.pages.dev/sitemap.xml
